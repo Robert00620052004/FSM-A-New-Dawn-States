@@ -1,0 +1,27 @@
+state={
+	id=817
+	name="Eupen Malmedy"
+
+	history={
+		victory_points = {
+			11857 1 
+		}
+		owner = BEL
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = BEL
+                add_core_of = GER
+		
+		
+
+	}
+
+	provinces={
+		13241
+	}
+	manpower=18000
+	buildings_max_level_factor=1.000
+	state_category= pastoral
+}

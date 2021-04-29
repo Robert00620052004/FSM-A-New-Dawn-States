@@ -1,0 +1,33 @@
+state={
+	id=818
+	name="Shangdong"
+
+	history={
+		victory_points = {
+			11857 1 
+		}
+		owner = CHI
+		buildings = {
+			infrastructure = 3
+4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+			}
+
+		}
+		add_core_of = CHI
+                add_core_of = PRC
+		
+		
+
+	}
+
+	provinces={
+		7105 4186 1200 1104 10018 4205
+	}
+	manpower= 2500000
+	buildings_max_level_factor=1.000
+	state_category= pastoral
+}
+

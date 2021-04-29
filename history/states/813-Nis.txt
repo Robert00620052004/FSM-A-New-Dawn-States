@@ -1,0 +1,27 @@
+state={
+	id=813
+	name="Nis"
+
+	history={
+		victory_points = {
+			11857 1 
+		}
+		owner = YUG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SER
+                add_core_of = YUG
+		
+		
+
+	}
+
+	provinces={
+		13237
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category= town
+}

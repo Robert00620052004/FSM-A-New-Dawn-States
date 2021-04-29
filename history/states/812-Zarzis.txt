@@ -1,0 +1,26 @@
+state={
+	id=812
+	name="Zarzis"
+
+	history={
+		victory_points = {
+			11857 1 
+		}
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = TUN 
+		 
+		
+
+	}
+
+	provinces={
+		11957 1105 12000 9983 4992
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category= pastoral
+}

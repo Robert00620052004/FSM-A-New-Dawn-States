@@ -1,0 +1,26 @@
+
+state={
+	id=827
+	name="Hlucinsko"
+
+	history={
+		owner = POL
+		victory_points = {
+			13245 1
+		}
+		add_core_of = GER
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = POL
+
+	}
+
+	provinces={
+		13245
+	}
+	manpower=1532
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

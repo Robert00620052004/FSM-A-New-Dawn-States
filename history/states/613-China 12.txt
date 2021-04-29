@@ -1,0 +1,30 @@
+state={
+	id=613
+	name="Shanghai"
+	manpower= 1800000
+
+	state_category= city
+
+	history={
+		owner = CHI
+		victory_points = {
+			11857 1
+		}
+		buildings = {
+                        infrastructure = 5
+
+                        7014 = {
+                                naval_base = 2 }
+
+                        12052 = {   
+                                  air_base = 4 }
+		}
+		add_core_of = CHI
+		add_core_of = PRC
+	}
+
+	provinces={
+                13244 12076 10034 7014 12052 4042
+		
+	}
+}

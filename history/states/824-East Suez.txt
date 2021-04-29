@@ -1,0 +1,27 @@
+state={
+	id=824
+	name="East Suez"
+
+	history={
+		victory_points = {
+			11857 5
+		}
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = EGY
+		
+		
+
+	}
+
+	provinces={
+                13242 13243
+		
+	}
+	manpower= 350000
+	buildings_max_level_factor=1.000
+	state_category= town
+}
