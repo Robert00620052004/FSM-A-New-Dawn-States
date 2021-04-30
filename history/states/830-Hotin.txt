@@ -1,0 +1,26 @@
+
+state={
+	id=830
+	name="Hotin"
+
+	history={
+		owner = ROM
+		victory_points = {
+			3407 1
+		}
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = 
+
+	}
+
+	provinces={
+		3407
+	}
+	manpower=11124
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
