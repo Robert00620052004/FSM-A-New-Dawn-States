@@ -1,26 +1,26 @@
 
 state={
-	id=829
-	name="Cavan"
+	id=832
+	name="Hotin"
 
 	history={
-		owner = IRE
+		owner = ROM
 		victory_points = {
-			11303 1
+			3407 1
 		}
-		add_core_of = IRE
+		add_core_of = ROM
 		buildings = {
-			infrastructure = 5
+			infrastructure = 4
 
 		}
-		add_core_of = NIR
+		add_core_of = 
 
 	}
 
 	provinces={
-		11303
+		3407
 	}
-	manpower=10543
+	manpower=11124
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
