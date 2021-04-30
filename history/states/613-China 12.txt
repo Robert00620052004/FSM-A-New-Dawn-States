@@ -11,13 +11,12 @@ state={
 			11857 1
 		}
 		buildings = {
+			air_base = 6
                         infrastructure = 5
 
                         7014 = {
-                                naval_base = 2 }
-
-                        12052 = {   
-                                  air_base = 4 }
+                                naval_base = 2 
+			}
 		}
 		add_core_of = CHI
 		add_core_of = PRC

@@ -15,13 +15,7 @@ state={
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 2
-			6626 = {
-				naval_base = 5
-
-			}
-
 		}
-
 	}
 
 	provinces={
