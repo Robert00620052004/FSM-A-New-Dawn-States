@@ -1,5 +1,10 @@
 #reload countrycolors
 
+GND = {
+	color = rgb { 217 193 203 }
+	color_ui = rgb { 217 193 203 }
+}
+
 ARA = {
 	color = rgb { 216 57 0 }
 	color_ui = rgb { 16 100 85 }
