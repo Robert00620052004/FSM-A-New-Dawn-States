@@ -17,6 +17,8 @@ state=
 			}
 		}
 		add_claim_by = SPR
+
+                add_core_by = GND
 	}
 	provinces={
 		4135
