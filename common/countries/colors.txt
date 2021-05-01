@@ -1,10 +1,13 @@
 #reload countrycolors
 
+SIC = {
+	color = rgb { 0 54 142 }
+	color_ui = rgb { 217 100 56 }
+}
 GND = {
 	color = rgb { 217 193 203 }
 	color_ui = rgb { 217 193 203 }
 }
-
 ARA = {
 	color = rgb { 216 57 0 }
 	color_ui = rgb { 16 100 85 }
