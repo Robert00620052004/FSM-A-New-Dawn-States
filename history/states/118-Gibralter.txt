@@ -17,7 +17,7 @@ state=
 			}
 		}
 		add_claim_by = SPR
-
+		add_claim_by = CAS
                 add_core_of = GND
 	}
 	provinces={

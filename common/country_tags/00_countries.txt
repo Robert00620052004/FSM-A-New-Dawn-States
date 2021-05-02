@@ -1,3 +1,4 @@
+CAS = "countries/Castile.txt"
 SIC = "countries/Two Sicilies.txt"
 ARA = "countries/Aragon.txt"
 GER = "countries/Germany.txt"
