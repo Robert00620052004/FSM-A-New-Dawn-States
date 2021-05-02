@@ -2,8 +2,8 @@
 
 
 CAS = {
-	color = rgb { 242 205 94 }
-	color_ui = rgb { 255 255 122 }
+	color = rgb { 249 213 0 }
+	color_ui = rgb { 51 100 97 }
 }
 SIC = {
 	color = rgb { 0 54 142 }
