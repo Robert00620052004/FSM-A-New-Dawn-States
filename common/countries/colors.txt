@@ -1,6 +1,10 @@
 #reload countrycolors
 
 
+VEC = {
+	color = rgb { 78 0 114 }
+	color_ui = rgb { 281 100 45 }
+}
 SIL = {
 	color = rgb { 135 124 183 }
 	color_ui = rgb { 135 124 183 }

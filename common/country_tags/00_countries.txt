@@ -1,4 +1,5 @@
 SIL = "countries/Silesia.txt"
+VEC = "countries/Venice.txt"
 CAS = "countries/Castile.txt"
 SIC = "countries/Two Sicilies.txt"
 ARA = "countries/Aragon.txt"
