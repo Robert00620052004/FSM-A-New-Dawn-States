@@ -1,6 +1,6 @@
 
 state={
-	id=842
+	id=841
 	name="Kars"
 	manpower = 31129
 	
