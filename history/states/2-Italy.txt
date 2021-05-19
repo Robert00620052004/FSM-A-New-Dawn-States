@@ -23,6 +23,7 @@ state= {
 			}
 		}
 		add_core_of = ITA
+		add_core_of = PAP
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2
@@ -32,6 +33,6 @@ state= {
 	}
 
 	provinces= {
-		923 6862 9794 9904 11751 11846 11882
+		923 6862 9794 9904 11751 11846
  	}
 }
