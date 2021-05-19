@@ -20,9 +20,10 @@ state={
 			}
 		}
 		add_core_of = ITA
+		add_core_of = PAP
 	}
 
 	provinces={
-		925 967 6926 11861 11790 9838 
+		925 967 3885 6926 11861 11790 9838 
 	}
 }	

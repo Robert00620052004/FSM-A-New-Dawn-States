@@ -1,5 +1,6 @@
 SAR = "countries/Piedmont Sardinia.txt"
 SIL = "countries/Silesia.txt"
+PAP = "countries/Papal States.txt"
 VEC = "countries/Venice.txt"
 CAS = "countries/Castile.txt"
 SIC = "countries/Two Sicilies.txt"

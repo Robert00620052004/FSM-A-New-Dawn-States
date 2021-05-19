@@ -1,5 +1,9 @@
 #reload countrycolors
 
+PAP = {
+	color = rgb { 255 212 71 }
+	color_ui = rgb { 46 72 100 }
+}
 SAR = {
 	color = rgb { 0 128 70 }
 	color_ui = rgb { 152 100 50 }
