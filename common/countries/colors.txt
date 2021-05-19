@@ -1,6 +1,9 @@
 #reload countrycolors
 
-
+SAR = {
+	color = rgb { 0 128 70 }
+	color_ui = rgb { 152 100 50 }
+}
 VEC = {
 	color = rgb { 78 0 114 }
 	color_ui = rgb { 281 100 45 }

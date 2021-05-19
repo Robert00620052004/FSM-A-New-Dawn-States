@@ -1,6 +1,6 @@
 state={
 	id=735
-	name="STATE_735"
+	name="Haute"
 
 	state_category = town
 
@@ -8,23 +8,14 @@ state={
 		owner = FRA
 		add_core_of = OCC
 		add_core_of = FRA
-		victory_points = {
-			778 1 
-		}
-		victory_points = {
-			9909 5 
-		}
 		buildings = {
-			infrastructure = 4
-			9909 = {
-				naval_base = 2
-			}		
+			infrastructure = 4		
 		}
 	}
 
 	provinces={
-		764 778 3764 3959 3961 6609 6975 9603 9736 9745 9909 11573 
+		764 3764 3961 6975 9736
 	}
-	manpower=907500
+	manpower=307500
 	buildings_max_level_factor=1.000
 }
