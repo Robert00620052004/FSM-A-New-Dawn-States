@@ -1,8 +1,12 @@
 #reload countrycolors
 
+TUS = {
+	color = rgb { 255 238 0 }
+	color_ui = rgb { 56 100 100 }
+}
 PAP = {
-	color = rgb { 255 212 71 }
-	color_ui = rgb { 46 72 100 }
+	color = rgb { 142 94 255 }
+	color_ui = rgb { 258 63 100 }
 }
 SAR = {
 	color = rgb { 0 128 70 }

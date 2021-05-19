@@ -1,3 +1,4 @@
+TUS = "countries/Tuscany.txt"
 SAR = "countries/Piedmont Sardinia.txt"
 SIL = "countries/Silesia.txt"
 PAP = "countries/Papal States.txt"
