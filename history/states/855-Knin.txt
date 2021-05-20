@@ -1,0 +1,23 @@
+state={
+	id=855
+	name="Knin"
+	manpower = 18535
+	
+	state_category = rural
+
+	history={
+		owner = YUG
+		victory_points = {
+			3974 3 
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = YUG
+                add_core_of = CRO
+	}
+
+	provinces={
+		3924 3974 
+	}
+}
