@@ -3040,6 +3040,8 @@ focus_tree = {
 					owns_state = 4
 					owns_state = 152
 					owns_state = 153
+					owns_state = 857
+					owns_state = 858
 				}
 			}
 		}
@@ -3055,6 +3057,8 @@ focus_tree = {
 							owns_state = 4
 							owns_state = 152
 							owns_state = 153
+							owns_state = 857
+							owns_state = 858
 						}
 					}
 				}
@@ -3073,6 +3077,8 @@ focus_tree = {
 							owns_state = 4
 							owns_state = 152
 							owns_state = 153
+							owns_state = 857
+							owns_state = 858
 						}
 					}
 				}
@@ -3150,6 +3156,36 @@ focus_tree = {
 					}
 				}
 				add_state_core = 153
+			}
+			if = {
+				limit = {
+					857 = {
+						owner = {
+							NOT = {
+								tag = AUS
+							}
+							NOT = {
+								is_in_faction_with = ROOT
+							}
+						}
+					}
+				}
+				add_state_core = 857
+			}
+			if = {
+				limit = {
+					858 = {
+						owner = {
+							NOT = {
+								tag = AUS
+							}
+							NOT = {
+								is_in_faction_with = ROOT
+							}
+						}
+					}
+				}
+				add_state_core = 858
 			}
 		}
 	}
