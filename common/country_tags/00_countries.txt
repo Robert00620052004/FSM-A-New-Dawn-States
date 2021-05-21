@@ -1,3 +1,4 @@
+TYR = "countries/Tyrol.txt"
 MOD = "countries/Modena.txt"
 MIL = "countries/Milan.txt"
 TUS = "countries/Tuscany.txt"
