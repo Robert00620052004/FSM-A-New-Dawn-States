@@ -1,0 +1,23 @@
+state={
+	id=856
+	name="Murska Sobota"
+	manpower = 28535
+	
+	state_category = rural
+
+	history={
+		owner = YUG
+		victory_points = {
+			6672 3 
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = YUG
+                add_core_of = SLO
+	}
+
+	provinces={
+		6672
+	}
+}
