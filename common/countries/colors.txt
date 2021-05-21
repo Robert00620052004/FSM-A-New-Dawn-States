@@ -1,5 +1,17 @@
 #reload countrycolors
 
+PAM = {
+	color = rgb { 114 255 101 }
+	color_ui = rgb { 114 60 100 }
+}
+MIL = {
+	color = rgb { 0 233 255 }
+	color_ui = rgb { 185 100 100 }
+}
+MOD = {
+	color = rgb { 6 91 54 }
+	color_ui = rgb { 154 93 36 }
+}
 TUS = {
 	color = rgb { 255 238 0 }
 	color_ui = rgb { 56 100 100 }

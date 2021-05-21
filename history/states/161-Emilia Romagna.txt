@@ -21,9 +21,10 @@ state={
 			}
 		}
 		add_core_of = ITA
+		add_core_of = MOD
 	}
 
 	provinces={
-		3976 6973 6985 9752
+		3976 6973 9752
 	}
 }

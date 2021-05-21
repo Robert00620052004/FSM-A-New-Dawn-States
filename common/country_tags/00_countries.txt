@@ -1,4 +1,7 @@
+MOD = "countries/Modena.txt"
+MIL = "countries/Milan.txt"
 TUS = "countries/Tuscany.txt"
+PAM = "countries/Parma.txt"
 SAR = "countries/Piedmont Sardinia.txt"
 SIL = "countries/Silesia.txt"
 PAP = "countries/Papal States.txt"
