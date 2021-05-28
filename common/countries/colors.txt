@@ -1,6 +1,9 @@
 #reload countrycolors
 
-
+SAL = {
+	color = rgb { 182 108 0 }
+	color_ui = rgb { 35 100 71 }
+}
 TYR = {
 	color = rgb { 211 137 0 }
 	color_ui = rgb { 39 100 83 }

@@ -1,3 +1,4 @@
+SAL = "countries/Salzburg.txt"
 TYR = "countries/Tyrol.txt"
 MOD = "countries/Modena.txt"
 MIL = "countries/Milan.txt"
