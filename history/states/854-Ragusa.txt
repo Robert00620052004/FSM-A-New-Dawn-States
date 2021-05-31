@@ -8,6 +8,9 @@ state={
 	history={
                 add_core_of = YUG
                 add_core_of = CRO
+		victory_points = {
+			3868 3 
+		}
 		owner = YUG
 		buildings = {
 			industrial_complex = 1
