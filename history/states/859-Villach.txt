@@ -14,9 +14,10 @@ state={
 			infrastructure = 4
 		}
 		add_core_of = AUS
+		add_core_of = TYR
 	}
 
 	provinces={
-		671 6673
+		671
 	}
 }
