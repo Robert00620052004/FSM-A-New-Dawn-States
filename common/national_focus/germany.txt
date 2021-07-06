@@ -3042,6 +3042,10 @@ focus_tree = {
 					owns_state = 153
 					owns_state = 857
 					owns_state = 858
+					owns_state = 859
+					owns_state = 863
+					owns_state = 862
+					owns_state = 845
 				}
 			}
 		}
@@ -3059,6 +3063,10 @@ focus_tree = {
 							owns_state = 153
 							owns_state = 857
 							owns_state = 858
+							owns_state = 859
+							owns_state = 863
+							owns_state = 862
+							owns_state = 845
 						}
 					}
 				}
@@ -3079,6 +3087,10 @@ focus_tree = {
 							owns_state = 153
 							owns_state = 857
 							owns_state = 858
+							owns_state = 859
+							owns_state = 863
+							owns_state = 862
+							owns_state = 845
 						}
 					}
 				}
@@ -3187,6 +3199,66 @@ focus_tree = {
 				}
 				add_state_core = 858
 			}
+			if = {
+				limit = {
+					859 = {
+						owner = {
+							NOT = {
+								tag = AUS
+							}
+							NOT = {
+								is_in_faction_with = ROOT
+							}
+						}
+					}
+				}
+				add_state_core = 859
+			}
+			if = {
+				limit = {
+					863 = {
+						owner = {
+							NOT = {
+								tag = AUS
+							}
+							NOT = {
+								is_in_faction_with = ROOT
+							}
+						}
+					}
+				}
+				add_state_core = 863
+			}
+			if = {
+				limit = {
+					862 = {
+						owner = {
+							NOT = {
+								tag = AUS
+							}
+							NOT = {
+								is_in_faction_with = ROOT
+							}
+						}
+					}
+				}
+				add_state_core = 862
+			}
+			if = {
+				limit = {
+					845 = {
+						owner = {
+							NOT = {
+								tag = AUS
+							}
+							NOT = {
+								is_in_faction_with = ROOT
+							}
+						}
+					}
+				}
+				add_state_core = 845
+			}			
 		}
 	}
 
